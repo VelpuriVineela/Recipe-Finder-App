@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [About](#about)
+- [Demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -14,6 +15,10 @@ Recipe Finder App is a web application designed to help users find and explore a
 ![Screenshot 2024-09-24 114457](https://github.com/user-attachments/assets/312d4524-0ba8-4ad1-80a0-8e8925cf87f4)
 
 ![Screenshot 2024-09-24 114519](https://github.com/user-attachments/assets/d8dfe7db-b169-4eb4-8168-9c57a13f9399)
+
+
+## Demo
+Check out the live demo of the app [here](https://recipe-finder-app-orcin.vercel.app/).
 
 
 ## Features
